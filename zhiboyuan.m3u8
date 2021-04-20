@@ -25,7 +25,7 @@ http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3
 #EXTINF:-1 ,凤凰资讯 HD
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 
-#EXTINF:-1 ,CCTV1 CQ
+#EXTINF:-1, group-title="央视", CCTV1
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8
 
 #EXTINF:-1 ,CCTV2 CQ
@@ -85,14 +85,8 @@ http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3
 #EXTINF:-1 ,东方卫视 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 
-#EXTINF:-1 ,北京卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-
 #EXTINF:-1 ,北京卫视 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8
-
-#EXTINF:-1 ,天津卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 
 #EXTINF:-1 ,天津卫视 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8

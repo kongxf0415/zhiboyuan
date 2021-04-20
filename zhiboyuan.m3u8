@@ -1,8 +1,8 @@
 
-#EXTINF:-1 ,CCTV1 CQ
+#EXTINF:-1 group-title="央视",CCTV1高清
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8
 
-#EXTINF:-1 ,CCTV2 HD
+#EXTINF:-1 group-title="央视",CCTV2 HD
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 
 #EXTINF:-1 ,CCTV2 CQ
@@ -59,7 +59,7 @@ http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3
 #EXTINF:-1, group-title="央视", CCTV15 HD
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8
 
-#EXTINF:-1, group-title="央视", CCTV17高清
+#EXTINF:-1 group-title="央视", CCTV17高清
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 
 

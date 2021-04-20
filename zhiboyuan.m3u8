@@ -1,9 +1,32 @@
+#EXTINF:-1 ,咪咕4K
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV1高清
+#EXTINF:-1 ,北京IPTV4K超清
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+
+#EXTINF:-1 ,北京IPTV淘剧场 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+
+#EXTINF:-1 ,北京IPTV淘娱乐 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
+
+#EXTINF:-1 ,北京IPTV淘电影 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
+
+#EXTINF:-1 ,北京IPTV萌宠TV CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
+
+#EXTINF:-1 ,大健康 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
+
+#EXTINF:-1 ,凤凰中文 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+
+#EXTINF:-1 ,凤凰资讯 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+
+#EXTINF:-1 ,CCTV1 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV2 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 
 #EXTINF:-1 ,CCTV2 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8
@@ -17,17 +40,11 @@ http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3
 #EXTINF:-1 ,CCTV5 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
 
-#EXTINF:-1 ,CCTV5+ HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-
 #EXTINF:-1 ,CCTV5+ CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
 
 #EXTINF:-1 ,CCTV6 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
-
-#EXTINF:-1 ,CCTV7 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 
 #EXTINF:-1 ,CCTV7 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8
@@ -35,117 +52,149 @@ http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3
 #EXTINF:-1 ,CCTV8 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
 
-#EXTINF:-1 ,CCTV9 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-
 #EXTINF:-1 ,CCTV9 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
-#EXTINF:-1, group-title="央视", CCTV10 CQ
+#EXTINF:-1 ,CCTV10 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8
 
 #EXTINF:-1 ,CCTV11 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
-#EXTINF:-1, group-title="央视", CCTV12 CQ
+#EXTINF:-1 ,CCTV12 CQ
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 
-#EXTINF:-1, group-title="央视", CCTV13 HD
+#EXTINF:-1 ,CCTV13 HD
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 
-#EXTINF:-1, group-title="央视", CCTV14 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 ,CCTV14 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8
 
-#EXTINF:-1, group-title="央视", CCTV15 HD
+#EXTINF:-1 ,CCTV15 HD
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8
 
-#EXTINF:-1 group-title="央视", CCTV17高清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+#EXTINF:-1 ,CCTV17 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8
 
+#EXTINF:-1 ,中国教育1 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方卫视",深圳卫视
-http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 ,东南卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视",江西卫视
-http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv/1.m3u8
+#EXTINF:-1 ,东方卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="地方卫视",广西卫视
-http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+#EXTINF:-1 ,北京卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="地方卫视",海南卫视
-http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
+#EXTINF:-1 ,北京卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="地方卫视",宁夏卫视
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+#EXTINF:-1 ,天津卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="地方卫视",內蒙古卫视
-http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+#EXTINF:-1 ,天津卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="地方卫视",青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
+#EXTINF:-1 ,安徽卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="地方卫视",陕西卫视
-http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
+#EXTINF:-1 ,安徽卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视
-http://39.134.39.38:80/PLTV/88888888/224/3221226240/index.m3u8?icpid=88888888&from=26&hms_devid=685,684&online=1606300511&vqe=3
+#EXTINF:-1 ,山东卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="地方卫视",兵团卫视
-http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
+#EXTINF:-1 ,广东卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方卫视",南方卫视
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 ,江苏卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/kbws.png" group-title="地方卫视",康巴卫视
-http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+#EXTINF:-1 ,江苏卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="地方卫视",西藏卫视
-http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,江西卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scwlpd.png" group-title="地方台",文化旅游
-http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+#EXTINF:-1 ,河北卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scjjpd.png" group-title="地方台",四川经济
-http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+#EXTINF:-1 ,浙江卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scxwpd.png" group-title="地方台",四川新闻
-http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+#EXTINF:-1 ,浙江卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scyswy.png" group-title="地方台",影视文艺
-http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 ,深圳卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scflet.png" group-title="地方台",妇女儿童
-http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+#EXTINF:-1 ,湖北卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scggxc.png" group-title="地方台",公共乡村
-http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+#EXTINF:-1 ,湖北卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV3/NEIJTV3.jpg?1" group-title="地方台",内江综合
-http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8
+#EXTINF:-1 ,湖南卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV1/NEIJTV1.jpg?1" group-title="地方台",内江公共
-http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
+#EXTINF:-1 ,贵州卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV4/NEIJTV4.jpg?1" group-title="地方台",内江科教
-http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
+#EXTINF:-1 ,辽宁卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方台",新闻综合
-http://live.826pc.com/cdtv/live.php?id=1
+#EXTINF:-1 ,黑龙江卫视 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="地方台",经济资讯
-http://live.826pc.com/cdtv/live.php?id=2
+#EXTINF:-1 ,黑龙江卫视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="地方台",都市生活
-http://live.826pc.com/cdtv/live.php?id=3
+#EXTINF:-1 ,北京冬奥纪实 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="地方台",成都公共
-http://live.826pc.com/cdtv/live.php?id=5
+#EXTINF:-1 ,北京影视 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="地方台",成都少儿
-http://live.826pc.com/cdtv/live.php?id=6
+#EXTINF:-1 ,北京文艺 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 ,北京新闻 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通
-http://tv.lanjingfm.com/cctbn/sichuan.m3u8
+#EXTINF:-1 ,北京卡酷少儿 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
+
+#EXTINF:-1 ,湖南快乐垂钓 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
+
+#EXTINF:-1 ,湖南茶频道 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
+
+#EXTINF:-1 ,北京家有购物 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226429/1.m3u8
+
+#EXTINF:-1 ,山西优购物 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8
+
+#EXTINF:-1 ,央广购物 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+
+#EXTINF:-1 ,江苏好享购物 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
+
+#EXTINF:-1 ,湖南快乐购 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226341/1.m3u8
+
+#EXTINF:-1 ,江西风尚购物 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226342/1.m3u8
+
+#EXTINF:-1 ,5GO美妆个护 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8
+
+#EXTINF:-1 ,5GO美妆个护 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
+
+#EXTINF:-1 ,5GO服饰内衣 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8

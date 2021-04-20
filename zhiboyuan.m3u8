@@ -1,3 +1,68 @@
+
+#EXTINF:-1 ,CCTV1 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8
+
+#EXTINF:-1 ,CCTV2 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+
+#EXTINF:-1 ,CCTV2 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8
+
+#EXTINF:-1 ,CCTV3 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
+
+#EXTINF:-1 ,CCTV4 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8
+
+#EXTINF:-1 ,CCTV5 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
+
+#EXTINF:-1 ,CCTV5+ HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+
+#EXTINF:-1 ,CCTV5+ CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
+
+#EXTINF:-1 ,CCTV6 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
+
+#EXTINF:-1 ,CCTV7 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+
+#EXTINF:-1 ,CCTV7 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8
+
+#EXTINF:-1 ,CCTV8 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
+
+#EXTINF:-1 ,CCTV9 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+
+#EXTINF:-1 ,CCTV9 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+
+#EXTINF:-1, group-title="央视", CCTV10 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8
+
+#EXTINF:-1 ,CCTV11 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+
+#EXTINF:-1, group-title="央视", CCTV12 CQ
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+
+#EXTINF:-1, group-title="央视", CCTV13 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
+
+#EXTINF:-1, group-title="央视", CCTV14 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+
+#EXTINF:-1, group-title="央视", CCTV15 HD
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8
+
+#EXTINF:-1, group-title="央视", CCTV17高清
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方卫视",深圳卫视
 http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8
 

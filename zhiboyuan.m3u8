@@ -1,4 +1,4 @@
-#EXTINF:-1,	group-title="央视",	CCTV-1 综合
+#EXTINF:-1,	tvg-logo=CCTV1.png, tvg-name=CCTV1, group-title="央视",	CCTV-1 综合
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8		
 #EXTINF:-1,	group-title="央视",	CCTV-2 财经
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8		

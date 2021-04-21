@@ -122,23 +122,23 @@ http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
 #EXTINF:-1, 	group-title="4K频道",	咪咕4K
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8		
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ssdy.png",	group-title="高清影视"	邵氏电影
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ssdy.png",	group-title="高清影视",	邵氏电影
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8		
 
-#EXTINF:-1,	group-title="纪实频道"	全纪实
+#EXTINF:-1,	group-title="纪实频道",	全纪实
 http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8		
-#EXTINF:-1,	group-title="纪实频道"	纪实人文
+#EXTINF:-1,	group-title="纪实频道",	纪实人文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8		
-#EXTINF:-1,	group-title="纪实频道"	求索记录
+#EXTINF:-1,	group-title="纪实频道",	求索记录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8		
-#EXTINF:-1,	group-title="纪实频道"	求索科学
+#EXTINF:-1,	group-title="纪实频道",	求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8		
-#EXTINF:-1,	group-title="纪实频道"	求索动物
+#EXTINF:-1,	group-title="纪实频道",	求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8		
-#EXTINF:-1,	group-title="纪实频道"	求索生活
+#EXTINF:-1,	group-title="纪实频道",	求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8		
-#EXTINF:-1,	group-title="纪实频道"	环球旅游
-http://125.210.152.18:9090/live/HQLY.m3u8		
+#EXTINF:-1,	group-title="纪实频道",	环球旅游
+http://125.210.152.18:9090/live/HQLY.m3u8				
 
 #EXTINF:-1, 	group-title="NewTV",	NewTV-中国功夫 
 http://39.135.33.12/PLTV/77777777/224/3221226576/index.m3u8		

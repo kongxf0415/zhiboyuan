@@ -279,3 +279,18 @@ http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8								
 #EXTINF:-1, 	group-title="siTV",	幸福彩						
 http://183.207.255.190/live/program/live/xfchd/4000000/mnf.m3u8								
+
+#EXTINF:-1,	group-title="少儿",	继续教育
+http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8		
+#EXTINF:-1,	group-title="少儿",	人文教育
+http://111.63.117.13:6060/030000001000/G_CETV-3/G_CETV-3.m3u8		
+#EXTINF:-1,	group-title="少儿",	智慧教育
+http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8		
+#EXTINF:-1,	group-title="少儿",	成都少儿
+http://live.826pc.com/cdtv/live.php?id=6		
+#EXTINF:-1,	group-title="少儿",	I爱玩具
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1,	group-title="少儿",	I爱幼教
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1,	group-title="少儿",	金鹰卡通
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8

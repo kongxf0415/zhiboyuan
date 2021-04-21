@@ -185,15 +185,15 @@ http://39.135.33.12/PLTV/77777777/224/3221226623/index.m3u8
 #EXTINF:-1, 	group-title="NewTV",	NewTV-金牌综艺 	
 http://39.135.33.12/PLTV/77777777/224/3221226574/index.m3u8			
 			
-#EXTINF:-1 	group-title="NewTV",	NewTV-四川	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sc.png"
+#EXTINF:-1 	group-title="NewTV",	NewTV-四川,	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sc.png"
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8			
-#EXTINF:-1,	group-title="NewTV",	NewTV-山东	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sd.png"
+#EXTINF:-1,	group-title="NewTV",	NewTV-山东,	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sd.png"
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8			
-#EXTINF:-1,	group-title="NewTV",	NewTV-广东	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-gd.png"
+#EXTINF:-1,	group-title="NewTV",	NewTV-广东,	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-gd.png"
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8			
-#EXTINF:-1 ,	group-title="NewTV",	NewTV-吉林	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-jl.png"
+#EXTINF:-1 ,	group-title="NewTV",	NewTV-吉林,	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-jl.png"
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8			
-#EXTINF:-1 ,	group-title="NewTV",	NewTV-江西	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv.png"
+#EXTINF:-1 ,	group-title="NewTV",	NewTV-江西,	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv.png"
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8			
 #EXTINF:-1 ,	group-title="NewTV",	NewTV-安徽	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv.png"
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8			

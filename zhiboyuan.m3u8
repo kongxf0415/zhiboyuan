@@ -146,44 +146,61 @@ http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 
 
-#EXTINF:-1, 	group-title="NewTV",	NewTV中国功夫 
-http://39.135.33.12/PLTV/77777777/224/3221226576/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV军事评论 
-http://39.135.33.12/PLTV/77777777/224/3221226627/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV军旅剧场 
-http://39.135.33.12/PLTV/77777777/224/3221226570/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV农业致富 
-http://39.135.33.12/PLTV/77777777/224/3221226572/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV动作电影 
-http://39.135.33.12/PLTV/77777777/224/3221226540/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV古装剧场 
-http://39.135.33.12/PLTV/77777777/224/3221226595/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV家庭剧场 
-http://39.135.33.12/PLTV/77777777/224/3221226621/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV怡伴健康 
-http://39.135.33.12/PLTV/77777777/224/3221226631/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV惊悚悬疑 
-http://39.135.33.12/PLTV/77777777/224/3221226568/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV明星大片 
-http://39.135.33.12/PLTV/77777777/224/3221226635/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV武搏世界 
-http://39.135.33.12/PLTV/77777777/224/3221226637/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV海外剧场 
-http://39.135.33.12/PLTV/77777777/224/3221226665/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV潮妈辣婆 
-http://39.135.33.12/PLTV/77777777/224/3221226542/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV炫舞未来 
-http://39.135.33.12/PLTV/77777777/224/3221226560/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV爱情喜剧 
-http://39.135.33.12/PLTV/77777777/224/3221226532/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV精品体育 
-http://39.135.33.12/PLTV/77777777/224/3221226625/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV精品大剧 
-http://39.135.33.12/PLTV/77777777/224/3221226617/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV精品纪录 
-http://39.135.33.12/PLTV/77777777/224/3221226623/index.m3u8		
-#EXTINF:-1, 	group-title="NewTV",	NewTV金牌综艺 
-http://39.135.33.12/PLTV/77777777/224/3221226574/index.m3u8		
+#EXTINF:-1, 	group-title="NewTV",	NewTV-中国功夫 	
+http://39.135.33.12/PLTV/77777777/224/3221226576/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-军事评论 	
+http://39.135.33.12/PLTV/77777777/224/3221226627/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-军旅剧场 	
+http://39.135.33.12/PLTV/77777777/224/3221226570/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-农业致富 	
+http://39.135.33.12/PLTV/77777777/224/3221226572/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-动作电影 	
+http://39.135.33.12/PLTV/77777777/224/3221226540/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-古装剧场 	
+http://39.135.33.12/PLTV/77777777/224/3221226595/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-家庭剧场 	
+http://39.135.33.12/PLTV/77777777/224/3221226621/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-怡伴健康 	
+http://39.135.33.12/PLTV/77777777/224/3221226631/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-惊悚悬疑 	
+http://39.135.33.12/PLTV/77777777/224/3221226568/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-明星大片 	
+http://39.135.33.12/PLTV/77777777/224/3221226635/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-武搏世界 	
+http://39.135.33.12/PLTV/77777777/224/3221226637/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-海外剧场 	
+http://39.135.33.12/PLTV/77777777/224/3221226665/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-潮妈辣婆 	
+http://39.135.33.12/PLTV/77777777/224/3221226542/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-炫舞未来 	
+http://39.135.33.12/PLTV/77777777/224/3221226560/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-爱情喜剧 	
+http://39.135.33.12/PLTV/77777777/224/3221226532/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-精品体育 	
+http://39.135.33.12/PLTV/77777777/224/3221226625/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-精品大剧 	
+http://39.135.33.12/PLTV/77777777/224/3221226617/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-精品纪录 	
+http://39.135.33.12/PLTV/77777777/224/3221226623/index.m3u8			
+#EXTINF:-1, 	group-title="NewTV",	NewTV-金牌综艺 	
+http://39.135.33.12/PLTV/77777777/224/3221226574/index.m3u8			
+			
+#EXTINF:-1 	group-title="NewTV",	NewTV-四川	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sc.png"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8			
+#EXTINF:-1,	group-title="NewTV",	NewTV-山东	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sd.png"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8			
+#EXTINF:-1,	group-title="NewTV",	NewTV-广东	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-gd.png"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8			
+#EXTINF:-1 ,	group-title="NewTV",	NewTV-吉林	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-jl.png"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8			
+#EXTINF:-1 ,	group-title="NewTV",	NewTV-江西	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv.png"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8			
+#EXTINF:-1 ,	group-title="NewTV",	NewTV-安徽	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv.png"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8			
+#EXTINF:-1 ,	group-title="NewTV",	NewTV-广西	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv.png"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8			
+#EXTINF:-1,	group-title="NewTV",	NewTV-云南	tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv.png"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 
 #EXTINF:-1, 	group-title="iHoT",	爱电竞

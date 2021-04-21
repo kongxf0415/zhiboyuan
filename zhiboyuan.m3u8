@@ -1,54 +1,39 @@
 #EXTINF:-1,	group-title="央视",	CCTV 1
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 2
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 3
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 4
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 5
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 5+
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 6
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 7
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 8
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 9
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 10
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 11
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 12
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 13
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 14
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 15
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8		
-		
 #EXTINF:-1,	group-title="央视",	CCTV 17
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8		
-		
+
+
 #EXTINF:-1, 	group-title="地方卫视",	东南卫视
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8		
 		
@@ -160,6 +145,7 @@ http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3
 #EXTINF:-1, 	中国教育1	
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 
+
 #EXTINF:-1, 	group-title="NewTV",	NewTV中国功夫 
 http://39.135.33.12/PLTV/77777777/224/3221226576/index.m3u8		
 #EXTINF:-1, 	group-title="NewTV",	NewTV军事评论 
@@ -199,6 +185,7 @@ http://39.135.33.12/PLTV/77777777/224/3221226623/index.m3u8
 #EXTINF:-1, 	group-title="NewTV",	NewTV金牌综艺 
 http://39.135.33.12/PLTV/77777777/224/3221226574/index.m3u8		
 
+
 #EXTINF:-1, 	group-title="iHoT",	爱电竞
 http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com		
 #EXTINF:-1, 	group-title="iHoT",	爱动漫
@@ -237,3 +224,41 @@ http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com		
 #EXTINF:-1, 	group-title="iHoT",	爱院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com		
+
+								
+#EXTINF:-1, 	group-title="siTV",	全纪实						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	幸福彩						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	新视觉						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	动漫秀场						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	游戏风云						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	劲爆体育						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	魅力足球						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	欢笑剧场						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	极速汽车						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	生活时尚						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	都市剧场						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	法治天地						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	金色频道						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	七彩戏剧						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	东方财经						
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8								
+#EXTINF:-1, 	group-title="siTV",	东方影视						
+http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8								
+#EXTINF:-1, 	group-title="siTV",	五星体育						
+http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8								
+#EXTINF:-1, 	group-title="siTV",	幸福彩						
+http://183.207.255.190/live/program/live/xfchd/4000000/mnf.m3u8								

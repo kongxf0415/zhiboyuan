@@ -322,5 +322,5 @@ http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 #EXTINF:-1,  tvg-logo=北京卡酷少儿.png tvg-name=北京卡酷少儿 group-title=少儿教育, 北京卡酷少儿
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
-#EXTINF:-1,  tvg-logo=中国教育1.png tvg-name=中国教育1 group-title=少儿教育, 中国教育1
+#EXTINF:-1,  tvg-logo=中国教育1.png tvg-name=中国教育1 group-title=少儿教育, 中国教育1台
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
